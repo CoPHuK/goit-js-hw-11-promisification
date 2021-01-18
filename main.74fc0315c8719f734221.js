@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{QfWi:function(e,a,n){"use strict";n.r(a);var i,c;n("lmye"),n("D/wG"),n("wCa+"),n("JBxO"),n("FdtR");console.log((i=[{name:"Mango",active:!0},{name:"Poly",active:!1},{name:"Ajax",active:!0},{name:"Lux",active:!1}],c="Mango",new Promise((function(e){i.map((function(e){return e.name===c?Object.assign({},e,{active:!e.active}):e})),e({user:user,active:active})}))))}},[["QfWi",1,2]]]);
-//# sourceMappingURL=main.74fc0315c8719f734221.js.map
